@@ -13,12 +13,14 @@ Python data analysis practice using pandas and matplotlib. Includes:
 2. Install required libraries:
    ```bash
    pip install pandas matplotlib
+   ```
 3. Place people.csv in the data/ folder
 4. Run the script:
    ```bash
     python people.py
+   ```
 
-# Skills Demonstrated
+## Skills Demonstrated
 - Python
 - Pandas
 - Matplotlib
